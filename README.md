@@ -90,6 +90,3 @@ Passe das Mapping an deine eigenen Bedürfnisse an, um sicherzustellen, dass die
 Pull Requests und Vorschläge sind herzlich willkommen.
 Für größere Änderungen bitte vorher ein **Issue** erstellen.
 
-````
-
-
