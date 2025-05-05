@@ -52,7 +52,7 @@ python steuer_index.py
 
 ## Kategorie Zuordnung (`kategorie_mapping`)
 
-Das Programm verwendet ein `kategorie_mapping`, um verschiedene Buchungen aus einer CSV-Datei in die entsprechenden Kategorien zuzuordnen. Das Mapping besteht aus einer Sammlung von **Schlagwörtern** und den dazugehörigen **Kategorien**. Wenn eines der Schlagwörter im Buchungstext gefunden wird, wird die zugehörige Kategorie zugewiesen.
+Das Programm verwendet ein `kategorie_mapping`in der Datei steuer_csv.py, um verschiedene Buchungen aus einer CSV-Datei in die entsprechenden Kategorien zuzuordnen. Das Mapping besteht aus einer Sammlung von **Schlagwörtern** und den dazugehörigen **Kategorien**. Wenn eines der Schlagwörter im Buchungstext gefunden wird, wird die zugehörige Kategorie zugewiesen.
 
 ### Beispiel für das `kategorie_mapping`:
 
