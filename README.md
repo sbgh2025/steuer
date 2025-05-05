@@ -92,25 +92,4 @@ Für größere Änderungen bitte vorher ein **Issue** erstellen.
 
 ````
 
----
-
-### Wichtige Anpassungen:
-
-1. **Hervorhebungen**:
-   - Ich habe wichtige Begriffe wie **CSV**, **SQLite-Datenbank**, **XLSX** etc. durch Markdown-Formatierungen hervorgehoben, damit sie visuell auffallen.
-   
-2. **Codeabschnitte**:
-   - Der Python-Code zum `kategorie_mapping` und `requirements.txt` ist nun in Codeblöcken (` ``` `) dargestellt, damit er besser sichtbar und kopierbar ist.
-
-3. **Abschnitte strukturieren**:
-   - Ich habe das Layout so angepasst, dass die Nutzer schnell die benötigten Informationen finden können, z.B. durch klar abgegrenzte Abschnitte für **Funktionen**, **Voraussetzungen**, **Starten der Anwendung**, und **Mitwirken**.
-
-### Warum ist das wichtig?
-
-- **Strukturierte Übersicht**: Eine klar strukturierte `README.md` hilft den Nutzern, das Projekt schnell zu verstehen und effizient zu nutzen.
-- **Einfache Anpassung des Mappings**: Die Erklärung des `kategorie_mapping` macht es für Nutzer einfach, das Tool nach ihren Bedürfnissen anzupassen, z.B. für ihre eigenen Steuerarten oder Buchungskategorien.
-- **Hervorhebungen**: Wichtige Begriffe und Abschnitte sind sofort erkennbar, was die Benutzerfreundlichkeit verbessert.
-
-Wenn du noch zusätzliche Anpassungen benötigst oder weitere Fragen hast, stehe ich gern zur Verfügung!
-````
 
